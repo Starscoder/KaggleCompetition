@@ -1,1 +1,1 @@
-# KaggleData-fraud
+# KaggleCompetition
